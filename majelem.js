@@ -26,4 +26,4 @@ var majorityElement = function (nums) {
     // let half = Math.trunc(nums.length/2);
     // return nums[half];
 };
-console.log(majorityElement([3,2,3]));
+console.log(majorityElement([3,2,3,2,4,2]));

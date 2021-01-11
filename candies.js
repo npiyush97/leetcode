@@ -10,3 +10,20 @@ var kidsWithCandies = function (candies, extraCandies) {
 
 console.log(kidsWithCandies([2,3,5,1,3], 3));
 // Runtime 60ms and Memory 33mb
+
+// const obj = {
+//   a:1,
+//   foo:{
+//     b:2,
+//     c:3,
+//     d:{
+//       e:4,
+//       f:5
+//     }
+//   }
+// }
+
+// const objCopy = JSON.parse(JSON.stringify(obj))
+// console.log(objCopy)
+
+// console.clear()
